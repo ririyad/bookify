@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookify", "bookify\bookify.csproj", "{6049B2FF-C35C-4A0B-8127-05334350BE81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "bookify.Tests", "bookify.Tests\bookify.Tests.csproj", "{15C39FBB-22BB-4848-BE85-406AF7B43F7C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6049B2FF-C35C-4A0B-8127-05334350BE81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6049B2FF-C35C-4A0B-8127-05334350BE81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6049B2FF-C35C-4A0B-8127-05334350BE81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6049B2FF-C35C-4A0B-8127-05334350BE81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15C39FBB-22BB-4848-BE85-406AF7B43F7C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15C39FBB-22BB-4848-BE85-406AF7B43F7C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15C39FBB-22BB-4848-BE85-406AF7B43F7C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15C39FBB-22BB-4848-BE85-406AF7B43F7C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BF104D4D-7CC9-499F-88E1-41730AB4902A}
+	EndGlobalSection
+EndGlobal
